@@ -1,0 +1,2 @@
+first file  git commands here written
+cheatsheet are better for understanding
